@@ -1,4 +1,4 @@
-# AI Business Solutions Platform  UI
+# AI Business Solutions Platform  UI - 
 
 A modern, responsive web application showcasing AI and LLM solutions for businesses. Built with React and Material-UI, featuring a sleek dark theme and interactive UI components.
 
