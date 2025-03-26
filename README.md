@@ -17,7 +17,7 @@ A modern, responsive web application showcasing AI and LLM solutions for busines
 
 - React.js
 - Material-UI (MUI)
-- CSS in-JS styling
+- CSS in JS styling
 - Responsive Grid System
 - Custom Animations
 - Modern JavaScript (ES6+)
